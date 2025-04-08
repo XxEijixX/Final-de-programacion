@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1b2fe990c2a3d4c9464f9f5cef873f, type: 3}
+  m_Name: Granada
+  m_EditorClassIdentifier: 
+  _name: Granada de Fragmentacion
+  _description: Es una granada que explota despues de lanzarse
+  _prefab: {fileID: 7644655888658224431, guid: ef498257c4f868f48b20d705b6c40f26, type: 3}
+  _sprite: {fileID: 21300000, guid: 9b290e1c5994e80469d0f938f97cd371, type: 3}
